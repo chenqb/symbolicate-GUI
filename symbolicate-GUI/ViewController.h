@@ -13,6 +13,7 @@
 @property (weak) IBOutlet NSTextField *crashFilePath;
 @property (weak) IBOutlet NSTextField *dSYMFilePath;
 
+@property (weak) IBOutlet NSButton *symbolicateBtn;
 
 @property (unsafe_unretained) IBOutlet NSTextView *output;
 
