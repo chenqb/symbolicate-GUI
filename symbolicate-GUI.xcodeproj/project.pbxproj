@@ -272,6 +272,7 @@
 				DEVELOPMENT_TEAM = KME7598E5L;
 				INFOPLIST_FILE = "symbolicate-GUI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cqb.symbolicate-GUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -286,6 +287,7 @@
 				DEVELOPMENT_TEAM = KME7598E5L;
 				INFOPLIST_FILE = "symbolicate-GUI/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cqb.symbolicate-GUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
